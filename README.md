@@ -1,4 +1,4 @@
-This is for UE 5.5
+This is for UE 5.6.1
 This a Work in Progress I just shared it to get some colabaration to get this system to work properly.
 
 1. First Download the Plugin.
