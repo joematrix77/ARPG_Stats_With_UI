@@ -1,4 +1,6 @@
 This is for UE 5.6.1
+
+If you are upgrading, You have to replace all the files (Not Optional) there are changes in all the widget blueprints and components. There's no way around it if you want to upgrade.
 This a Work in Progress I just shared it to get some colabaration to get this system to work properly.
 
 1. First Download the Plugin.
