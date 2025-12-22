@@ -1,6 +1,7 @@
 This is for UE 5.6.1
 
 If you are upgrading, You have to replace all the files (Not Optional) there are changes in all the widget blueprints and components. There's no way around it if you want to upgrade.
+YOU HAVE TO (It's not Optional) disable save game press play then exit then RE-ENABLE save game for it to take effect. After doing that closing the project and reopening wouldn't be a bad idea either.
 This a Work in Progress I just shared it to get some colabaration to get this system to work properly.
 
 1. First Download the Plugin.
